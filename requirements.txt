@@ -26,7 +26,6 @@ psutil==7.0.0
 pycparser==2.22
 python-engineio==4.12.2
 python-socketio==5.13.0
-pywin32==311
 pyzmq==27.0.2
 requests==2.32.5
 setuptools==80.9.0
